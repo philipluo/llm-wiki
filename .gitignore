@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# Obsidian config (personal workspace)
+.obsidian/
+
+# Claude Code memory (personal feedback)
+memory/
+
+# Scripts with hardcoded personal paths
+scripts/
+
+# Empty directories
+raw/notes/
+raw/issues/
+raw/papers/
+raw/assets/
+
+# Keep these directories
+# raw/articles/ - keep
+# raw/videos/ - keep
+# wiki/ - keep
+# templates/ - keep
