@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 # Knowledge-Wiki Schema
 
-This document defines how the QClaw Agent operates on this Knowledge Wiki.
+This document defines how the Ai Agent operates on this Knowledge Wiki.
 
 ## Quick Reference
 

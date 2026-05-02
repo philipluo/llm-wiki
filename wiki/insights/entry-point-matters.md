@@ -1,9 +1,12 @@
 ---
 type: insight
 date: 2026-04-13
-tags: [knowledge-management, ai-agent, architecture]
+tags:
+  - knowledge-management
+  - ai-agent
+  - architecture
 related: "[[llm-wiki-pattern]], [[rag-vs-wiki]]"
-originated: "Building and discussing the Knowledge-Wiki with QClaw"
+originated: Building and discussing the Knowledge-Wiki with Ai Agent
 ---
 
 # 入口比链接更重要
